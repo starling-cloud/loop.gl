@@ -1,6 +1,6 @@
 {
     "extends": "../../tsconfig.module.json",
-    "include": ["src/**/*"],
+    "include": ["src/**/*", "../timeseries/src/timeseries_item.ts"],
     "exclude": ["node_modules"],
     "compilerOptions": {
         "composite": true,
