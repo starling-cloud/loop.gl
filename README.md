@@ -32,8 +32,6 @@ The goal of this project is to simplify the process of creating and manipulating
 
 We believe that Loop.gl, with its rich set of features and user-friendly design, can change the way time-series data is visualized and manipulated, making it a valuable tool in any data analyst's or developer's toolkit.
 
-
-
 ## Installation
 
 ### HTML Script Tag
